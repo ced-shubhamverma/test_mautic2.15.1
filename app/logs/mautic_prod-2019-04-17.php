@@ -1,0 +1,1 @@
+[2019-04-17 09:04:10] mautic.ERROR: SCHEMA ERROR: An exception occurred while executing 'SELECT f.alias, f.is_unique_identifer as is_unique, f.type, f.object FROM _mauticlead_fields f WHERE f.object = 'lead' ORDER BY f.field_order ASC':  Table 'mauticnew._mauticlead_fields' doesn't exist [] []
